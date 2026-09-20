@@ -1,2 +1,2 @@
-:HL["/manga-vault-web-preview/_next/static/chunks/0p6b8h.6sp-2e.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"comics","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"neon-ronin","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"LRx2s4UWcLWtHTn2dylGr"}
+:HL["/manga-vault-web-preview/_next/static/chunks/0i~u8~.d3yjmc.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"comics","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"neon-ronin","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"yvSAe03vEM7_Z3LV7TkQJ"}

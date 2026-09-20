@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fcomics\u002F[slug]","\u002Fread\u002F[comicSlug]\u002F[chapterNumber]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
